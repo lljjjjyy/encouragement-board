@@ -19,6 +19,10 @@ while True:
       feelings_list.append("happy")
       encouragement_list.append("to continue smiling")
       counter += 1
+    if each_word == "frustrated"
+      feelings_list.append("frustrated")
+      encouragement_list.append("take a break :D")
+      counter += 1
     if each_word == "tired":
       feelings_list.append("tired")
       encouragement_list.append("you are stronger than you believe")
